@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BucketList2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_tasks_here">Enter tasks here</string>
+    <string name="save_tasks">Save tasks</string>
+    <string name="done">Done?</string>
+    <string name="update_task">UPDATE TASK</string>
+    <string name="delete_task">DELETE TASK</string>
+</resources>
